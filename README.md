@@ -1,5 +1,4 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Salsabilla Ahmad
+NIM  : 21343072
+
+Pada JS-05 Disini saya mengambil kesimpulan, bahwasannya kita bisa mengimplementasikan sebuah kelas scanner, kelas bufferreader, dan kelas joptionpane. agar program tersebut bisa selesai dengan baik tanpa ada error, kita disini bisa menggunaakn yang namanya library. nah library disini berfungsi sebagai fungsi utama program, jika library ini tdiak ada maka program tidak bisa kita gunakan. Pada pembuatan program Joption Pane, saya kesulitan sedikit dalam merancnangnya, karenan struktur program yang baru, saya agak sulit dalam mengimplementasikannya.
